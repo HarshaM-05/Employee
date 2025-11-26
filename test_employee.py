@@ -4,7 +4,7 @@ def test_get_employee_info():
     #sample data
     name="Alice Smith"
     emp_id="E202"
-    department = "HR"
+    department = "HR"    
     salary = 60000  
     expected_output = (
         f"Employee Name: {name}\n"
